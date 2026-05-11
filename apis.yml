@@ -1,0 +1,68 @@
+aid: tiktok-shop
+name: TikTok Shop API
+description: >-
+  TikTok Shop is TikTok's integrated e-commerce platform that lets sellers,
+  creators, and partners list products, manage inventory and fulfillment, and
+  sell directly within TikTok's live streams, short videos, and shop tabs.
+  The TikTok Shop Open API (open-api.tiktokglobalshop.com) is a RESTful API
+  that uses OAuth 2.0 authentication and enables developers to programmatically
+  manage products, orders, fulfillment, returns, finance, promotions, and
+  seller authorization across TikTok Shop's global marketplaces.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - E-commerce
+  - Marketplace
+  - Social Commerce
+  - Order Management
+  - Product Catalog
+  - Fulfillment
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/tiktok-shop/refs/heads/main/apis.yml
+created: '2026-05-11'
+modified: '2026-05-11'
+specificationVersion: '0.19'
+apis:
+  - aid: tiktok-shop:open-api
+    name: TikTok Shop Open API
+    description: >-
+      RESTful Open API for managing TikTok Shop seller accounts, products,
+      orders, fulfillment, returns and refunds, logistics, finance, and
+      promotions. Authentication uses OAuth 2.0 with App ID and app secret
+      issued through the TikTok Shop Partner Center.
+    humanURL: https://partner.tiktokshop.com/docv2/page/main
+    baseURL: https://open-api.tiktokglobalshop.com
+    tags:
+      - E-commerce
+      - Marketplace
+      - Products
+      - Orders
+      - Fulfillment
+      - Returns
+      - Finance
+    properties:
+      - type: Documentation
+        url: https://partner.tiktokshop.com/docv2/page/main
+      - type: Authorization
+        url: https://partner.tiktokshop.com/docv2/page/678e3a3292b0f40314a92d75
+      - type: Postman Workspace
+        url: https://www.postman.com/tiktok-shop-open
+
+common:
+  - type: Website
+    url: https://shop.tiktok.com
+  - type: Documentation
+    url: https://partner.tiktokshop.com/docv2/page/main
+  - type: Developer Portal
+    url: https://partner.tiktokshop.com
+  - type: Sign Up
+    url: https://seller-us.tiktok.com/account/register
+  - type: Postman
+    url: https://www.postman.com/tiktok-shop-open
+  - type: Support
+    url: https://seller-us.tiktok.com/university/help
+  - type: LinkedIn
+    url: https://www.linkedin.com/showcase/tiktok-shop/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
