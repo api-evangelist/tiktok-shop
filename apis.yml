@@ -55,7 +55,7 @@ common:
     url: https://partner.tiktokshop.com/docv2/page/main
   - type: Developer Portal
     url: https://partner.tiktokshop.com
-  - type: Sign Up
+  - type: SignUp
     url: https://seller-us.tiktok.com/account/register
   - type: Postman
     url: https://www.postman.com/tiktok-shop-open
