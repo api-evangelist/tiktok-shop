@@ -45,7 +45,7 @@ apis:
         url: https://partner.tiktokshop.com/docv2/page/main
       - type: Authorization
         url: https://partner.tiktokshop.com/docv2/page/678e3a3292b0f40314a92d75
-      - type: Postman Workspace
+      - type: PostmanWorkspace
         url: https://www.postman.com/tiktok-shop-open
 
 common:
@@ -53,9 +53,9 @@ common:
     url: https://shop.tiktok.com
   - type: Documentation
     url: https://partner.tiktokshop.com/docv2/page/main
-  - type: Developer Portal
+  - type: DeveloperPortal
     url: https://partner.tiktokshop.com
-  - type: SignUp
+  - type: Signup
     url: https://seller-us.tiktok.com/account/register
   - type: Postman
     url: https://www.postman.com/tiktok-shop-open
