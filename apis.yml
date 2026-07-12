@@ -49,6 +49,8 @@ apis:
         url: https://www.postman.com/tiktok-shop-open
 
 common:
+  - type: DomainSecurity
+    url: security/tiktok-shop-domain-security.yml
   - type: Website
     url: https://shop.tiktok.com
   - type: Documentation
