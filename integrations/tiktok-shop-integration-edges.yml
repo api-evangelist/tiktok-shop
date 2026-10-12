@@ -1,0 +1,19 @@
+generated: '2026-10-12'
+method: searched
+source:
+- https://monid.ai/tools/tiktok-shop
+checked:
+- https://composio.dev/toolkits/tiktok-shop
+- https://monid.ai/tools/tiktok-shop
+- https://n8n.io/integrations/tiktok-shop/
+- https://zapier.com/apps/tiktok-shop-api/integrations
+- https://zapier.com/apps/tiktok-shop/integrations
+summary: null
+marketplace_apps:
+- marketplace: monid
+  channel: agent-gateway
+  app: tiktok-shop
+  url: https://monid.ai/tools/tiktok-shop
+  identity: slug
+edges: []
+templates: []
